@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="header">This is the header</div>
+    <div class="content">This is the content</div>
+    <div class="footer">This is the footer</div>
+</body>
+</html>
