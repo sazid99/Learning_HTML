@@ -1,1 +1,36 @@
-
+<!Doctype html>
+<html>
+  <head>
+  <title>My web site</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+<body>
+  <h1>Hello There <br> You are welcome😃</h1>
+  <p> Look like you are new here!<br> Creat a new account! </p>
+  
+  <form action="resister.php" method="post">
+    
+   <label for="name">First Name:</label>
+    <input type="text" id="name" name="name" required> <br><br>
+    
+   <label for="name">Last Name:</label>
+    <input type="text" id="name" name="name" required> <br><br>
+    
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username"required><br><br>
+    
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required> <br><br>
+    
+    <label for="password">Confirm Password :</label>
+    <input type="password" id="password" name="password" required> <br><br>
+    
+    <input type="submit" Value="Creat New Account">
+    
+    
+  </form>
+  
+  
+  
+</body>  
+</html>  
